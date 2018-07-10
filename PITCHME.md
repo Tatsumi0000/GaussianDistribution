@@ -6,7 +6,7 @@
 
 [@yhirano55](https://github.com/yhirano55)
 
----
+---?image=bg/pink.png
 
 # [@yhirano55](https://github.com/yhirano55)
 
