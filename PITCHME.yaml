@@ -1,5 +1,6 @@
 background: bg/navy.png
 transition: slide
+mathjax : TeX-AMS_HTML-full
 theme: black
 footnote: "© 2017 YourName All Rights Reserved."
 theme-override: assets/PITCHME.css
