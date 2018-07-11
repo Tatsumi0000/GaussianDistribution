@@ -12,7 +12,7 @@ The following <strong>[sample presentation](https://gitpitch.com/yhirano55/gitpi
 ## Usage
 
 1. Fork it
-2. Access `https://gitpitch.com/#{username}/gitpitch-azusa/#{branch}`
+2. Access `https://gitpitch.com/Tatsumi0000/GaussianDistribution/master`
 
 ## Change background-color
 
