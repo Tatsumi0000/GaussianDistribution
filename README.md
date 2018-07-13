@@ -12,10 +12,9 @@ The following <strong>[sample presentation](https://gitpitch.com/yhirano55/gitpi
 ## Documents
 ![QR code](https://github.com/Tatsumi0000/gitpitch-azusa/blob/master/pics/QR.png "式 QR code")
 
-or
+Please read the QR code or [Click here](https://gitpitch.com/Tatsumi0000/GaussianDistribution/master#/)
 
-<a href="https://gitpitch.com/Tatsumi0000/GaussianDistribution/master#/" target="_blank">Click here</a>
-<a href=”ここにアドレス” target=”_blank”>ここにリンク先の内容</a>
+
 ## Usage
 
 1. Fork it
