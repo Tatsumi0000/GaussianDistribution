@@ -3,9 +3,12 @@
 # Gaussian Distribution
 
 2018.07.17
+
 機械・情報系コース修士１年
-宮地 俊宏
-西田 龍登
+
+<span style="font-size: 50%>宮地 俊宏</span>
+<span style="font-size: 50%>西田 龍登</span>
+
 
 
 ---?image=bg/pink.png
