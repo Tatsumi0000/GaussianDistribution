@@ -62,7 +62,7 @@
 
 * ガウス関数は<font color="Salmon">$-\infty$</font>から<font color="Salmon">$+\infty$</font>の間に定義
 
-* この方法では範囲に制限を設ける必要がある
+* この方法では範囲に制限を設ける
 
 ---
 
