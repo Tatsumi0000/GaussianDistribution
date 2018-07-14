@@ -15,7 +15,9 @@
 
 ---?image=bg/pink.png
 
-# [@yhirano55](https://github.com/yhirano55)
+# 目的
+
+・ 一様乱数 → ガウス乱数
 
 ![](assets/thumb.png)
 
