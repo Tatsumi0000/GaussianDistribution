@@ -62,7 +62,7 @@
 
 ---
 
-## $ \displaystyle r\_{G} = \sum\_{N}^{i=1} r\_{i} - \frac{N}{2}  $
+#### $ \displaystyle r\_{G} = \sum\_{N}^{i=1} r\_{i} - \frac{N}{2}  $
 
 −−−
 
