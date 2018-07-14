@@ -64,11 +64,12 @@
 
 # そこで
 
-- 内部は [Reveal.js](http://lab.hakim.se/reveal-js/#/)
-- `PITCHME.md` を置くだけ
-- セットアップらくちん
-- ブランチでプレゼン切替可能
-- [Wiki](https://github.com/gitpitch/gitpitch/wiki)が充実している
+---
+
+- 正規乱数の特徴
+- 平均 $\pm 1 \times$標準偏差の範囲に全体の約$68.3\par$
+- 平均 $\pm 2 \times$標準偏差の範囲に全体の約$95.5\par$
+- 平均 $\pm 3 \times$標準偏差の範囲に全体の約$99.7\par$
 
 ---
 
