@@ -57,7 +57,7 @@
 
 ---
 
-* ガウス関数は<font color="Red">$-\infty$</font>から<font color="Red">$+\infty$</font>の間に定義
+* ガウス関数は<font color="Salmon">$-\infty$</font>から<font color="Salmon">$+\infty$</font>の間に定義
 
 * この方法では範囲に制限を設ける必要がある
 ---
@@ -67,9 +67,9 @@
 ---
 
 - 正規乱数の特徴
-- 平均 $\pm 1 \times$標準偏差の範囲に全体の約$68.3 \%$
-- 平均 $\pm 2 \times$標準偏差の範囲に全体の約$95.5 \%$
-- 平均 $\pm 3 \times$標準偏差の範囲に全体の約$99.7 \%$
+- 平均 <font color="Salmon">$\pm 1 \times$</font>標準偏差の範囲に全体の約<font color="Salmon">$68.3 \%$</font>
+- 平均 <font color="Salmon">$\pm 2 \times$</font>標準偏差の範囲に全体の約<font color="Salmon">$95.5 \%$</font>
+- 平均 <font color="Salmon">$\pm 3 \times$</font>標準偏差の範囲に全体の約<font color="Salmon">$99.7 \%$</font>
 
 ---
 
