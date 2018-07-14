@@ -62,8 +62,11 @@
 
 ---
 
-### $ \displaystyle r\_{G} = \sum\_{i=1}^{N} r\_{i} - \frac{N}{2} $
+## $ \displaystyle r\_{G} = \sum\_{i=1}^{N} r\_{i} - \frac{N}{2} $
 
+* 変数$ r\_{G}$の最大範囲は$\mu = 0$および標準偏差$\simga = \sqrt{\frac{N}{12}}$
+* 
+*
 ---
 
 # わるさ
