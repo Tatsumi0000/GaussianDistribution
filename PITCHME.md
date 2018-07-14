@@ -33,7 +33,7 @@
 
 ---
 
-* ガウス関数は$\pm\infty$の間に定義
+* ガウス関数は<font color="Red">$-\infty$</font>から<font color="Red">$+\infty$</font>の間に定義
 
 * この方法では範囲に制限を設ける必要がある
 ---
