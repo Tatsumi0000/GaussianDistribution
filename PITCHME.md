@@ -17,16 +17,14 @@
 
 # 目的
 
-・ 一様乱数 → ガウス乱数
-
-![](assets/thumb.png)
-
-- Freelancer from 鎌倉
-- Organizer [\#railsdm](https://rails-developers-meetup.connpass.com/)
+一様乱数 → ガウス乱数
 
 ---
 
-# [GitPitch](https://gitpitch.com/)
+# 前回までの復習
+
+・ 変換法
+・ 棄却法
 
 ## 使用したことありますか!?
 
