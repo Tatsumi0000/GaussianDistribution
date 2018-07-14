@@ -46,12 +46,11 @@
 ---
 
 # 前回までの復習
-
----
-
 ランダムサンプルをいくつか得る方法として
+<div style="text-align: ;">
 * 変換法
 * 棄却法
+</div>
 
 ---
 
@@ -70,8 +69,6 @@
 ---
 
 # 正規乱数の特徴
-
----
 
 - 平均 <font color="Salmon">$\pm 1$</font>$\times$標準偏差は，全体の約<font color="Salmon">$68.3 \%$</font>
 - 平均 <font color="Salmon">$\pm 2$</font>$\times$標準偏差は，全体の約<font color="Salmon">$95.5 \%$</font>
