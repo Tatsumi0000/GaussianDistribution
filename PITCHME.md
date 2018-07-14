@@ -66,10 +66,11 @@
 
 ---
 
-- 正規乱数の特徴
-- 平均 <font color="Salmon">$\pm 1 \times$</font>標準偏差の範囲に全体の約<font color="Salmon">$68.3 \%$</font>
-- 平均 <font color="Salmon">$\pm 2 \times$</font>標準偏差の範囲に全体の約<font color="Salmon">$95.5 \%$</font>
-- 平均 <font color="Salmon">$\pm 3 \times$</font>標準偏差の範囲に全体の約<font color="Salmon">$99.7 \%$</font>
+## 正規乱数の特徴
+
+- 平均 $\pm 1 \times$標準偏差の範囲に全体の約<font color="Salmon">$68.3 \%$</font>
+- 平均 $\pm 2 \times$標準偏差の範囲に全体の約<font color="Salmon">$95.5 \%$</font>
+- 平均 $\pm 3 \times$標準偏差の範囲に全体の約<font color="Salmon">$99.7 \%$</font>
 
 ---
 
