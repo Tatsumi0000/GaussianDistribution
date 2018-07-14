@@ -30,14 +30,11 @@
 ---
 
 ランダムサンプルをいくつか得る方法として
-<div style="text-align: ;">
-<ul>
+
+<ul style="text-align:left">
   <li>交換法</li>
   <li>棄却法</li>
 </ul>
-</div>
-
-
 ---
 
 # しかし
