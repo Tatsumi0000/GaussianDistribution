@@ -35,6 +35,7 @@
   <li>交換法</li>
   <li>棄却法</li>
 </ul>
+
 ---
 
 # しかし
@@ -43,7 +44,7 @@
 
 * ガウス関数は<font color="Salmon">$-\infty$</font>から<font color="Salmon">$+\infty$</font>の間に定義
 
-* この方法では範囲に制限を設ける
+* 棄却法では範囲に制限を設ける
 
 ---
 
@@ -70,6 +71,7 @@
 * $N = 2$の場合和は三角形
 * $N$が増加すると分布はガウスのような形状
 * $N = 4$などの$N$の値は<font color="Salmon">あまり精度を求めない計算向き</font>
+* $N = 4$の場合$\sigma = \sqrt{\frac{1}{3}} \fallingdotseq 0.058$の範囲は$-2 \pm 2$に対応し，$\mu \pm \sigma \sqrt{12}$（$\mu \pm 3.46\sigma$）に対応
 
 ---
 
