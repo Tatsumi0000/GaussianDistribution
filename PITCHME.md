@@ -1,10 +1,12 @@
 ---?image=assets/cover.jpg&size=cover
 
-# gitpitch-azusa
+# Gaussian Distribution
 
-2017.07.29 TokyuRubyKaigi
+2018.07.17
+機械・情報系コース修士１年
+宮地 俊宏
+西田 龍登
 
-[@yhirano55](https://github.com/yhirano55)
 
 ---?image=bg/pink.png
 
