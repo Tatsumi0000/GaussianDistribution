@@ -6,8 +6,8 @@
 
 機械・情報系コース修士１年
 
-<span style="font-size: 50%>宮地 俊宏</span>
-<span style="font-size: 50%>西田 龍登</span>
+@size[font-size: 80%;](宮地 俊宏)
+@size[font-size: 80%;](西田 龍登)
 
 
 
