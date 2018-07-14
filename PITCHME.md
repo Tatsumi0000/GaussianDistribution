@@ -44,9 +44,10 @@
 
 
 ---
-<div style="text-align: top;">
+
 # 前回までの復習
-</div>
+
+---
 
 ランダムサンプルをいくつか得る方法として
 * 変換法
@@ -61,6 +62,7 @@
 * ガウス関数は<font color="Salmon">$-\infty$</font>から<font color="Salmon">$+\infty$</font>の間に定義
 
 * この方法では範囲に制限を設ける必要がある
+
 ---
 
 # そこで
@@ -69,12 +71,15 @@
 
 # 正規乱数の特徴
 
+---
+
 - 平均 <font color="Salmon">$\pm 1$</font>$\times$標準偏差は，全体の約<font color="Salmon">$68.3 \%$</font>
 - 平均 <font color="Salmon">$\pm 2$</font>$\times$標準偏差は，全体の約<font color="Salmon">$95.5 \%$</font>
 - 平均 <font color="Salmon">$\pm 3$</font>$\times$標準偏差は，全体の約<font color="Salmon">$99.7 \%$</font>
 <div style="text-align: right;">
 をカバー
 </div>
+
 ---
 
 # わるさ
