@@ -47,7 +47,8 @@
 
 # 前回までの復習
 ランダムサンプルをいくつか得る方法として
-<div style="text-align: ;">
+
+<div style="text-align: left;">
 * 変換法
 * 棄却法
 </div>
