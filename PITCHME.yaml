@@ -2,7 +2,7 @@ background: bg/navy.png
 transition: slide
 mathjax : TeX-AMS_HTML-full
 theme: black
-footnote: "© 2017 YourName All Rights Reserved."
+footnote: "© 2018 T.Miyaji and T.Nishida All Rights Reserved."
 theme-override: assets/PITCHME.css
 charts : true
 slide-number: true
