@@ -20,11 +20,12 @@ Please read the QR code or [Click here](https://gitpitch.com/Tatsumi0000/Gaussia
 1. Click `offline` in footer of GitPitch presentation.
 2. Download `PITCHME.zip`
 3. Uncompress `PITCHME.zip`
-4. Run HTTP Server:
 
 or
 
-`$ git clone https://github.com/Tatsumi0000/GaussianDistribution.githttps://github.com/Tatsumi0000/GaussianDistribution.git`
+`$ git clone https://github.com/Tatsumi0000/GaussianDistribution.git`
+
+4. Run HTTP Server:
 
   ```
   $ ruby -rwebrick -e'WEBrick::HTTPServer.new(:Port => 3000, :DocumentRoot => Dir.pwd).start'
