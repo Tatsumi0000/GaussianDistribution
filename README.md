@@ -9,6 +9,12 @@
 
 The following <strong>[sample presentation](https://gitpitch.com/yhirano55/gitpitch-azusa/master?grs=github&t=white)</strong> is provided so you can see this feature in action.
 
+## Download
+
+```
+$ git clone https://github.com/Tatsumi0000/GaussianDistribution.git
+```
+
 ## Usage
 
 ![QR code](https://github.com/Tatsumi0000/gitpitch-azusa/blob/master/pics/QR.png "式 QR code")
@@ -20,13 +26,6 @@ Please read the QR code or [Click here](https://gitpitch.com/Tatsumi0000/Gaussia
 1. Click `offline` in footer of GitPitch presentation.
 2. Download `PITCHME.zip`
 3. Uncompress `PITCHME.zip`
-
-or
-
-```
-$ git clone https://github.com/Tatsumi0000/GaussianDistribution.git
-```
-
 4. Run HTTP Server:
 
   ```
