@@ -23,7 +23,9 @@ Please read the QR code or [Click here](https://gitpitch.com/Tatsumi0000/Gaussia
 
 or
 
-`$ git clone https://github.com/Tatsumi0000/GaussianDistribution.git`
+```
+$ git clone https://github.com/Tatsumi0000/GaussianDistribution.git
+```
 
 4. Run HTTP Server:
 
