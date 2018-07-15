@@ -1,4 +1,4 @@
----?image=assets/cover.jpg&size=cover
+---?image=assets/background.jpg&size=cover
 
 # Gaussian Distribution
 
