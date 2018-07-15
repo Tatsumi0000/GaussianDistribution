@@ -9,24 +9,11 @@
 
 The following <strong>[sample presentation](https://gitpitch.com/yhirano55/gitpitch-azusa/master?grs=github&t=white)</strong> is provided so you can see this feature in action.
 
-## Documents
+## Usage
+
 ![QR code](https://github.com/Tatsumi0000/gitpitch-azusa/blob/master/pics/QR.png "式 QR code")
 
 Please read the QR code or [Click here](https://gitpitch.com/Tatsumi0000/GaussianDistribution/master#/)
-
-
-## Usage
-
-1. Fork it
-2. Access `https://gitpitch.com/Tatsumi0000/GaussianDistribution/master`
-
-## Change background-color
-
-Background-colors are all image files. Default color is navy. You can select background-color like this:
-
-    ---?image=bg/blue.png
-
-    # ^ Please use custom delimiter.
 
 ## Offline
 
@@ -34,6 +21,10 @@ Background-colors are all image files. Default color is navy. You can select bac
 2. Download `PITCHME.zip`
 3. Uncompress `PITCHME.zip`
 4. Run HTTP Server:
+
+or
+
+`$ git clone https://github.com/Tatsumi0000/GaussianDistribution.githttps://github.com/Tatsumi0000/GaussianDistribution.git`
 
   ```
   $ ruby -rwebrick -e'WEBrick::HTTPServer.new(:Port => 3000, :DocumentRoot => Dir.pwd).start'
